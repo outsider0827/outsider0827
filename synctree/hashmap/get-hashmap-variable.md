@@ -14,3 +14,6 @@
 
 
 <img src="https://github.com/outsider0827/outsider0827/blob/master/.gitbook/assets/image-6-%20%284%29.png" width="400">
+<p align="center">
+	<img src="https://github.com/outsider0827/outsider0827/blob/master/.gitbook/assets/image-6-%20%284%29.png" alt="kingdom" width="50%" height="50%"/>
+</p>
