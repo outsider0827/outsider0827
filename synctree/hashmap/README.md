@@ -14,7 +14,5 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-![](../../.gitbook/assets/image.jpg)
-
 ![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png)
 
