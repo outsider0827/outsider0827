@@ -10,11 +10,11 @@
 
 ● 예문
 
-![](../../.gitbook/assets/image-2-.png)
+![](../../.gitbook/assets/image-2-%20%281%29.png)
 
 ![](../../.gitbook/assets/image-3-.png)
 
-![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png=192x102)
+![](https://github.com/outsider0827/outsider0827/tree/98411f65a92a53d003925c3ab71f6d8706fe54a4/.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png=192x102)
 
 123
 
