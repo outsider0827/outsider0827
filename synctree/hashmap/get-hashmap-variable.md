@@ -13,4 +13,4 @@
 ![](../../.gitbook/assets/image-6-%20%284%29.png)
 
 
-<img src="https://i.pinimg.com/originals/20/78/a9/2078a921387fb535735b19820175bacf.jpg" width="500">
+<img src="https://github.com/outsider0827/outsider0827/blob/master/.gitbook/assets/image-6-%20%284%29.png" width="500">
