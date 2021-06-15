@@ -14,4 +14,7 @@
 
 ![](../../.gitbook/assets/image-3-.png)
 
-<img src ="https://github.com/outsider0827/outsider0827/tree/98411f65a92a53d003925c3ab71f6d8706fe54a4/.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png" width="714" height="1904">
+![](https://github.com/outsider0827/outsider0827/tree/98411f65a92a53d003925c3ab71f6d8706fe54a4/.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png)
+
+![](../../.gitbook/assets/test1.png)
+

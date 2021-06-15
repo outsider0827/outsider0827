@@ -5,6 +5,8 @@
 ## SyncTree
 
 * [HashMap](synctree/hashmap/README.md)
+  * [Untitled](synctree/hashmap/untitled-1.md)
+  * [Untitled](synctree/hashmap/untitled.md)
   * [Pair](synctree/hashmap/pair.md)
   * [Get HashMap Variable](synctree/hashmap/get-hashmap-variable.md)
 * [테스트1](synctree/1.md)

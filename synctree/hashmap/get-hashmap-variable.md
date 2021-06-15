@@ -10,7 +10,7 @@
 
 ● 예문
 
-![](../../.gitbook/assets/image-6-.png)
+![](../../.gitbook/assets/image-6-%20%284%29.png)
 
 
 
