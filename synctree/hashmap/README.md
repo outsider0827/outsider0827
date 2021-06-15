@@ -10,10 +10,6 @@
 
 ● 예문
 
-![](../../.gitbook/assets/image%20%282%29.png)
-
-![](../../.gitbook/assets/image%20%289%29.png)
-
-![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png)
+(https://postfiles.pstatic.net/MjAyMDEyMTBfMjA4/MDAxNjA3NTg4MTc2Nzgy.LxvFLjPWvW1w_Qno8jpyLw7eUE_LckoOyOzFcHJLry4g.Znbw_DPb1Lpjst5-2c2DhxTE1G39wPBJMPyWTqogWzEg.PNG.nntuple/image.png?type=w773)
 
 123
