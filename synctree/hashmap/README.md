@@ -10,6 +10,7 @@
 
 ● 예문
 
-![](https://postfiles.pstatic.net/MjAyMDEyMTBfMjA4/MDAxNjA3NTg4MTc2Nzgy.LxvFLjPWvW1w_Qno8jpyLw7eUE_LckoOyOzFcHJLry4g.Znbw_DPb1Lpjst5-2c2DhxTE1G39wPBJMPyWTqogWzEg.PNG.nntuple/image.png?type=w773)
+![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png)
 
 123
+
