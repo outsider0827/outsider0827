@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/image-3-.png)
 
-![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png)
+![](../../.gitbook/assets/image_waifu2x_art_noise1_scale_tta_1.png){: width="100%" height="100%"}
 
 123
 
