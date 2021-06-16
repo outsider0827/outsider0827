@@ -10,10 +10,9 @@
 
 ● 예문
 
-![](../../.gitbook/assets/image-6-%20%284%29.png){: width="100%" height="100%"}
+![](../../.gitbook/assets/image%20%2813%29.png)
 
+● 결과
 
-<img src="https://github.com/outsider0827/outsider0827/blob/master/.gitbook/assets/image-6-%20%284%29.png" width="400">
-<p align="center">
-	<img src="https://github.com/outsider0827/outsider0827/blob/master/.gitbook/assets/image-6-%20%284%29.png" alt="kingdom" width="50%" height="50%"/>
-</p>
+![](../../.gitbook/assets/image%20%282%29.png)
+

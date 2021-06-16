@@ -5,12 +5,12 @@
 ## SyncTree
 
 * [HashMap](synctree/hashmap/README.md)
-  * [Untitled](synctree/hashmap/untitled-1.md)
-  * [Untitled](synctree/hashmap/untitled.md)
   * [Pair](synctree/hashmap/pair.md)
   * [Get HashMap Variable](synctree/hashmap/get-hashmap-variable.md)
-* [테스트1](synctree/1.md)
-* [테스트2](synctree/2.md)
+  * [Add HashMap Variable](synctree/hashmap/add-hashmap-variable.md)
+  * [Remove HashMap Variable](synctree/hashmap/remove-hashmap-variable.md)
+  * [Parameter](synctree/hashmap/parameter/README.md)
+    * [datatype](synctree/hashmap/parameter/datatype.md)
 
 ## New Group
 
