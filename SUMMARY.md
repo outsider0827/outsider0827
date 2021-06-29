@@ -3,6 +3,7 @@
 * [Hello! SyncTree](README.md)
 * [SyncTree?](synctree-2.md)
 * [SyncTree - Playground](untitled.md)
+* [SyncTree 도입사례](synctree-1.md)
 
 ## SyncTree NBlock <a id="synctree"></a>
 
