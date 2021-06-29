@@ -1,8 +1,6 @@
-# SyncTree - playground
+# SyncTree - Playground
 
-SyncTree Playground is optimized for Chrome browser.
+[SyncTree Playground](https://playground.synctreestudio.com/#/) 
 
-Please use SyncTree Playground with the Chrome or Edge browser.
-
-[Chrome Download](https://www.google.co.kr/chrome/)
+ - 
 

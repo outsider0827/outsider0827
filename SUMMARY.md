@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Hello! SyncTree](README.md)
-* [SyncTree - playground](untitled.md)
+* [SyncTree?](synctree-2.md)
+* [SyncTree - Playground](untitled.md)
 
 ## SyncTree NBlock <a id="synctree"></a>
 
