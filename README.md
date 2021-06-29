@@ -24,7 +24,7 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
  ● Tutorial App 생성 완료 했습니다.
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
  ● Add BizUnit 버튼을 클릭합니다.
 
@@ -42,11 +42,11 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
  ● NBlock 코딩을 하기 위해 Dev를 클릭하면 BizUnit에 화살표가 표시 됩니다.
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
  ● BizUnit 화살표를 클릭하면 Revision List가 나오고 다시 한번 화살표를 클릭하면 개발화면으로 전환됩니다.
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
  ● 개발화면에서 NBlock 코딩이 가능합니다.
 
@@ -96,5 +96,5 @@ SyncTree NBlock Coding으로 "Hello SyncTree"를 출력해 보도록 하겠습�
 
  ● 실행버튼을 클릭하면 결과를 확인 할 수 있습니다.
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
