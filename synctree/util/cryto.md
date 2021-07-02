@@ -1,2 +1,2 @@
-# Cryto
+# Crypto
 

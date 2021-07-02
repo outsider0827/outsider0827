@@ -43,7 +43,7 @@
   * [Hash](synctree/util/hash.md)
   * [Base64](synctree/util/base64.md)
   * [Url](synctree/util/url.md)
-  * [Cryto](synctree/util/cryto.md)
+  * [Crypto](synctree/util/cryto.md)
   * [Convert](synctree/util/convert.md)
   * [Handle](synctree/util/handle.md)
   * [Decimal](synctree/util/decimal.md)
