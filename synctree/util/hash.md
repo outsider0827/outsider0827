@@ -1,2 +1,6 @@
 # Hash
 
+## ● Hash
+
+## ● Hash HMAC
+
