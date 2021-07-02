@@ -1,2 +1,61 @@
 # Variable
 
+## ● **Create**
+
+       ****변수를 선언할 때 사용
+
+![](../.gitbook/assets/image%20%2849%29.png)
+
+## ● **Set to**
+
+        ****선언된 변수에 값을 세팅할 때 사용
+
+![](../.gitbook/assets/image%20%2850%29.png)
+
+## ● **Get**
+
+         ****선언된 변수의 값을 가져올 때 사용
+
+![](../.gitbook/assets/image%20%2857%29.png)
+
+## ● **Fetch**
+
+ Transfer에 대한 ID 값을 가져와서 header와 body의 값을 컨트롤할 때 사용
+
+![](../.gitbook/assets/image%20%2858%29.png)
+
+## ● **예문**
+
+![](../.gitbook/assets/image%20%2861%29.png)
+
+![](../.gitbook/assets/image%20%2848%29.png)
+
+![](../.gitbook/assets/image%20%2862%29.png)
+
+![](../.gitbook/assets/image%20%2852%29.png)
+
+## ● **결과**
+
+```text
+{
+  "result": {
+    "requestOperator": [],
+    "responseOperator": {
+      "name": "hpphihii",
+      "schema": {
+        "type": "NONE",
+        "url": null,
+        "id": null,
+        "content": null,
+        "leftPanel": false,
+        "rightPanel": false
+      },
+      "updated": "2020-08-10T04:44:29.064Z",
+      "_rev": 8,
+      "_id": "ab05d21711f844b486c61cbe7c8eb9a8",
+      "data": "{\"type\":\"operator\",\"action\":\"basic\",\"template\":{\"lists\":[{\"id\":\"5e9e55d5a3bb4\",\"status\":\"basic\",\"type\":\"self\",\"template\":{\"function\":{\"type\":\"function-handle\",\"template\":{\"type\":\"block\",\"template\":{\"blocks\":{\"type\":\"block-handle\",\"template\":{\"payload\":[{\"type\":\"exception-handler\",\"action\":\"try-catch\",\"template\":{\"try\":[{\"type\":\"bizunit\",\"action\":\"create\",\"template\":{\"request\":{\"type\":\"operator\",\"action\":\"request\",\"id\":\"3f66e7c4044556a7060b86c7a222e5eb\",\"template\":{\"from\":{\"type\":\"property\",\"action\":\"operator\",\"template\":{\"id\":{\"type\":\"primitive\",\"action\":\"string\",\"template\":{\"value\":\"synctree\"}},\"name\":{\"type\":\"primitive\",\"action\":\"string\",\"template\":{\"value\":\"synctree\"}},\"description\":{\"typhelpere\":\"primitive\",\"action\":\"string\",\"template\":{\"value\":\"synctree\"}},\"created-date\":{\"type\":\"primitive\",\"action\":\"string\",\"template\":{\"value\":\"2020-08-10 12:31:42\"}}"
+    }
+  }
+}
+```
+
