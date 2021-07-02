@@ -1,2 +1,4 @@
 # Verify
 
+## ● Jwt Registered Claims
+
