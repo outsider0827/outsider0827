@@ -1,2 +1,10 @@
 # Log
 
+## ● Info
+
+## ● Debug
+
+## ● Error
+
+
+
