@@ -4,13 +4,13 @@
 
 ####         문자형 데이터
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 ## ● **integer**
 
 ####         정수형 데이터
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 ## ● **float**
 
@@ -22,11 +22,11 @@
 
         boolena 논리값
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 ## ● null
 
         null 값
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
