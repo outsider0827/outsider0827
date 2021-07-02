@@ -17,6 +17,7 @@
 * [ArrayList](synctree/arraylist/README.md)
   * [Get Array Variable](synctree/arraylist/get-array-variable.md)
   * [Add Array Variable](synctree/arraylist/add-array-variable.md)
+  * [Remove Array Variable](synctree/arraylist/remove-array-variable.md)
 * [Protocol](synctree/protocol.md)
 * [Operator](synctree/operator.md)
 * [Logic](synctree/logic.md)
