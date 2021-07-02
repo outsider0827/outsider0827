@@ -2,11 +2,11 @@
 
 ## ● Protocol Https
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 ## ● Protocol Secure
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 ## ● Protocol Soap
 

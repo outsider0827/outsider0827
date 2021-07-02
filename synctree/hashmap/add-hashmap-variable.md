@@ -8,15 +8,15 @@
 
         설정버튼을 클릭하여 item을 추가 또는 삭제 가능
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 
 ## ● 결과
 

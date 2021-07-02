@@ -4,33 +4,33 @@
 
        ****변수를 선언할 때 사용
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 ## ● **Set to**
 
         ****선언된 변수에 값을 세팅할 때 사용
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 ## ● **Get**
 
          ****선언된 변수의 값을 가져올 때 사용
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 ## ● **Fetch**
 
  Transfer에 대한 ID 값을 가져와서 header와 body의 값을 컨트롤할 때 사용
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 ## ● **예문**
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ## ● **결과**
 
