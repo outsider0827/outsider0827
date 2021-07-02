@@ -14,8 +14,6 @@
   * [Add HashMap Variable](synctree/hashmap/add-hashmap-variable.md)
   * [Remove HashMap Variable](synctree/hashmap/remove-hashmap-variable.md)
   * [Pair](synctree/hashmap/pair.md)
-  * [Parameter](synctree/hashmap/parameter/README.md)
-    * [datatype](synctree/hashmap/parameter/datatype.md)
 * [ArrayList](synctree/arraylist.md)
 * [Protocol](synctree/protocol.md)
 * [Operator](synctree/operator.md)
