@@ -16,7 +16,7 @@
 
 ![](../../.gitbook/assets/image%20%2896%29.png)
 
-## ● 결
+## ● 결과
 
 ```text
 {
