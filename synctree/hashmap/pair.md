@@ -10,15 +10,15 @@
 
         API Document 생성을 위한 Pair
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](../../.gitbook/assets/image%20%28128%29.png)
 
 ## ● datatype
 
         Document Pair에서 매개변수 타입을 지정할 때 사용
 
-![type : string, integer, double, boolean, object, array](../../.gitbook/assets/image%20%2891%29.png)
+![type : string, integer, double, boolean, object, array](../../.gitbook/assets/image%20%28112%29.png)
 
-![type : application/json, application/xml, application/x-www-form-urlencoded, text/plain](../../.gitbook/assets/image%20%2879%29.png)
+![type : application/json, application/xml, application/x-www-form-urlencoded, text/plain](../../.gitbook/assets/image%20%2891%29.png)
 
 
 
