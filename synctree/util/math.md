@@ -2,11 +2,11 @@
 
 ## ● Math
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 ## ● 
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
 
 

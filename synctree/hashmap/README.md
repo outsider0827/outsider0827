@@ -4,15 +4,15 @@
 
         ****HashMap 형태의 자료구조 생성에 사용
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
        설정버튼을 클릭하여 item을 추가 또는 삭제 가능
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28126%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
