@@ -26,25 +26,25 @@
 
 ## ● Decimal Round
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28292%29.png)
 
 ## ● Decimal Floor
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
 ## ● Decimal Ceil
 
-![](../../.gitbook/assets/image%20%28292%29.png)
+![](../../.gitbook/assets/image%20%28298%29.png)
 
 ## ● Decimal ToString
 
-![](../../.gitbook/assets/image%20%28283%29.png)
+![](../../.gitbook/assets/image%20%28287%29.png)
 
 ## ● Decimal ToInteger
 
-![](../../.gitbook/assets/image%20%28252%29.png)
+![](../../.gitbook/assets/image%20%28255%29.png)
 
 ## ● Decimal ToFloat
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 

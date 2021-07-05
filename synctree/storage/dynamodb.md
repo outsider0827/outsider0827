@@ -2,7 +2,7 @@
 
 ## ● Create
 
-![](../../.gitbook/assets/image%20%28242%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 ## ● Set to
 
@@ -10,15 +10,15 @@
 
 ## ● DynamoDB Get
 
-![](../../.gitbook/assets/image%20%28277%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 ## ● DynamoDB Put
 
-![](../../.gitbook/assets/image%20%28272%29.png)
+![](../../.gitbook/assets/image%20%28276%29.png)
 
 ## ● DynamoDB Update
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28301%29.png)
 
 ## ● DynamoDB Delete
 
@@ -26,7 +26,7 @@
 
 ## ● DynamoDB Connector
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
 
 
