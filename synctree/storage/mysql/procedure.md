@@ -4,7 +4,7 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mbu2DYo1jNucxn3cJIz%2F-MdoLQ1VxvPHQ3CUqbr5%2F-MdoSxjVxbQ3VxIF8fnE%2Fimage.png?alt=media&token=2630a046-88e0-40a3-a0af-259bc55b8f73)
 
-![](../../../.gitbook/assets/image%20%28266%29.png)
+![](../../../.gitbook/assets/image%20%28279%29.png)
 
 ## ● Procedure In Parameters
 
@@ -12,13 +12,13 @@
 
 ## ● Procedure Out Parameters
 
-![](../../../.gitbook/assets/image%20%28263%29.png)
+![](../../../.gitbook/assets/image%20%28275%29.png)
 
 ## ● Procedure InOut Parameters
 
-![](../../../.gitbook/assets/image%20%28275%29.png)
+![](../../../.gitbook/assets/image%20%28290%29.png)
 
 ## ● datatype
 
-![](../../../.gitbook/assets/image%20%28222%29.png)
+![](../../../.gitbook/assets/image%20%28223%29.png)
 
