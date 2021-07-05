@@ -6,17 +6,17 @@
 
 ## ● Comment statements
 
-![](../.gitbook/assets/image%20%28222%29.png)
+![](../.gitbook/assets/image%20%28225%29.png)
 
 ## ● Code Section
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28263%29.png)
 
 ## ● Injection Origin
 
-![](../.gitbook/assets/image%20%28243%29.png)
+![](../.gitbook/assets/image%20%28266%29.png)
 
 ## ● Dictionary
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../.gitbook/assets/image%20%28259%29.png)
 
