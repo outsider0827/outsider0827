@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image%20%2881%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28169%29.png)
 
@@ -18,7 +18,7 @@
 
 ![](../../.gitbook/assets/image%20%28136%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {

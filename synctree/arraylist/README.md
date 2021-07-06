@@ -10,13 +10,13 @@
 
 ![](../../.gitbook/assets/image%20%28163%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28103%29.png)
 
 ![](../../.gitbook/assets/image%20%28128%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {

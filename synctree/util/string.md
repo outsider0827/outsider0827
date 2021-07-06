@@ -12,7 +12,7 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28375%29.png)
+![](../../.gitbook/assets/image%20%28376%29.png)
 
 ![](../../.gitbook/assets/image%20%28353%29.png)
 
@@ -36,9 +36,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28356%29.png)
+![](../../.gitbook/assets/image%20%28357%29.png)
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28369%29.png)
 
 ## ● 결과
 
@@ -76,7 +76,7 @@
 
 ![](../../.gitbook/assets/image%20%28347%29.png)
 
-![](../../.gitbook/assets/image%20%28370%29.png)
+![](../../.gitbook/assets/image%20%28371%29.png)
 
 ## ● 결과
 
@@ -96,9 +96,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28366%29.png)
+![](../../.gitbook/assets/image%20%28367%29.png)
 
-![](../../.gitbook/assets/image%20%28374%29.png)
+![](../../.gitbook/assets/image%20%28375%29.png)
 
 ## ● 결과
 
@@ -174,7 +174,7 @@
 
 ![](../../.gitbook/assets/image%20%28352%29.png)
 
-![](../../.gitbook/assets/image%20%28377%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 
 ## ● 결과
 
@@ -225,7 +225,7 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28371%29.png)
+![](../../.gitbook/assets/image%20%28372%29.png)
 
 ![](../../.gitbook/assets/image%20%28334%29.png)
 

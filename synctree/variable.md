@@ -24,7 +24,7 @@
 
 ![](../.gitbook/assets/image%20%28162%29.png)
 
-## ● **예문**
+## ● ****Variable **예문**
 
 ![](../.gitbook/assets/image%20%28176%29.png)
 
@@ -32,7 +32,7 @@
 
 ![](../.gitbook/assets/image%20%2882%29.png)
 
-## ● **결과**
+## ● ****Variable **결과**
 
 ```text
 {
