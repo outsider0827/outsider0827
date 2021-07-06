@@ -2,7 +2,13 @@
 
 ## ● Datetime
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+         현재시간 또는 특정일자를 생성할 때 사용.
+
+![String &#xC785;&#xB825; : now, 9999-99-99](../../.gitbook/assets/image%20%28142%29.png)
+
+## ● 예문
+
+## ● 결과
 
 ## ● Datetime Timestamp
 
