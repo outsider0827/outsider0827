@@ -20,3 +20,13 @@
 
 ## ● 결과
 
+```text
+{
+  "result": {
+    "key01": "value01",
+    "key02": "value02",
+    "key03": "value03"
+  }
+}
+```
+

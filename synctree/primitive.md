@@ -2,13 +2,13 @@
 
 ## ● **string**
 
-####         문자형 데이터
+        문자형 데이터
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
 ## ● **integer**
 
-####         정수형 데이터
+        정수형 데이터
 
 ![](../.gitbook/assets/image%20%28206%29.png)
 
