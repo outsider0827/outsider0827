@@ -2,9 +2,17 @@
 
 ## ● String Concat
 
+        여러개의 String 문자열을 하나로 통합할 때 사용
+
 ![](../../.gitbook/assets/image%20%2863%29.png)
 
+        설정버튼을 클릭하여 item을 추가 또는 삭제 가능
+
 ![](../../.gitbook/assets/image%20%28190%29.png)
+
+## ● 예문
+
+## ● 결과
 
 ## ● String Index
 

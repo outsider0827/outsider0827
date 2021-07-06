@@ -8,7 +8,7 @@
 
 ## ● Response
 
-        http\(s\)의 Response 처리
+        http\(s\)의 응답 처리에 사용
 
 ![](../../.gitbook/assets/image%20%28186%29.png)
 
