@@ -9,13 +9,13 @@
 
 ## ● 예제
 
-![](../.gitbook/assets/image%20%28347%29.png)
+![](../.gitbook/assets/image%20%28362%29.png)
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28335%29.png)
 
-![](../.gitbook/assets/image%20%28329%29.png)
+![](../.gitbook/assets/image%20%28333%29.png)
 
-![](../.gitbook/assets/image%20%28359%29.png)
+![](../.gitbook/assets/image%20%28378%29.png)
 
 ## ● 결
 

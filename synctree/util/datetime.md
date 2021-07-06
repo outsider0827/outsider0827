@@ -8,9 +8,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28338%29.png)
+![](../../.gitbook/assets/image%20%28349%29.png)
 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 ## ● 결과
 
@@ -24,9 +24,25 @@
 
 ## ● Datetime Timestamp
 
-        DateTime 객체를 초로 변환
+        날짜를 초로 환산하여 반환할 때 사용
 
 ![](../../.gitbook/assets/image%20%28198%29.png)
+
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28355%29.png)
+
+![](../../.gitbook/assets/image%20%28332%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "DateTimeTimeStamp": 1612238141
+  }
+}
+```
 
 ## ● Datetime Add
 
@@ -40,11 +56,11 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28337%29.png)
+![](../../.gitbook/assets/image%20%28348%29.png)
 
-![](../../.gitbook/assets/image%20%28345%29.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
-![](../../.gitbook/assets/image%20%28343%29.png)
+![](../../.gitbook/assets/image%20%28357%29.png)
 
 ## ● 결과
 
@@ -58,7 +74,7 @@
 
 ## ● Datetime Subtract
 
-        현재 일자에서 값을 증가 실킬 때 사용
+        현재 일자에서 값을 감소 실킬 때 사용
 
 ![](../../.gitbook/assets/image%20%28174%29.png)
 
@@ -66,17 +82,35 @@
 
 ![](../../.gitbook/assets/image%20%28132%29.png)
 
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28358%29.png)
+
+![](../../.gitbook/assets/image%20%28345%29.png)
+
+![](../../.gitbook/assets/image%20%28326%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "DateTimeSub": "2018-02-02"
+  }
+}
+```
+
 ## ● Datetime Format
 
         날짜의 표현 형식을 지정할 때 사용\(PHP기반\)
 
 ![](../../.gitbook/assets/image%20%28141%29.png)
 
-## ● 예
+## ● 예문
 
-![](../../.gitbook/assets/image%20%28324%29.png)
+![](../../.gitbook/assets/image%20%28325%29.png)
 
-![](../../.gitbook/assets/image%20%28344%29.png)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
 ## ● 결과
 
@@ -90,9 +124,27 @@
 
 ## ● Datetime Diff
 
-        DateTime 객체에 날짜1과 날짜2의 시간차 반환
+        time1에서 time2까지의 증가 또는 감소된 값을 출력할 때 사용
 
 ![](../../.gitbook/assets/image%20%28213%29.png)
+
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28341%29.png)
+
+![](../../.gitbook/assets/image%20%28364%29.png)
+
+![](../../.gitbook/assets/image%20%28351%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "dateTimeDiff": "-1 days"
+  }
+}
+```
 
 ## ● Datetime Format-Diff
 
@@ -100,13 +152,13 @@
 
 ![](../../.gitbook/assets/image%20%28214%29.png)
 
-## ● 예
+## ● 예문
 
-![](../../.gitbook/assets/image%20%28356%29.png)
+![](../../.gitbook/assets/image%20%28373%29.png)
 
-![](../../.gitbook/assets/image%20%28341%29.png)
+![](../../.gitbook/assets/image%20%28354%29.png)
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28350%29.png)
 
 ## ● 결과
 
@@ -120,5 +172,24 @@
 
 ## ● Datetime Offset
 
+        DateTime 객체의 현재 시간을 다른 시간으로 설정할 때 사용  
+
+
 ![](../../.gitbook/assets/image%20%28161%29.png)
+
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28344%29.png)
+
+![](../../.gitbook/assets/image%20%28322%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "DateTimeOffset": 32400
+  }
+}\
+```
 

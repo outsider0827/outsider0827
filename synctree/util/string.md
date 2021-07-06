@@ -12,11 +12,11 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28357%29.png)
+![](../../.gitbook/assets/image%20%28375%29.png)
 
-![](../../.gitbook/assets/image%20%28340%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28338%29.png)
 
 ## ● 결과
 
@@ -36,9 +36,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28342%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
-![](../../.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28368%29.png)
 
 ## ● 결과
 
@@ -74,9 +74,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28336%29.png)
+![](../../.gitbook/assets/image%20%28347%29.png)
 
-![](../../.gitbook/assets/image%20%28353%29.png)
+![](../../.gitbook/assets/image%20%28370%29.png)
 
 ## ● 결과
 
@@ -90,33 +90,104 @@
 
 ## ● String ToArray
 
-        문자열을 배열로 반환 시 사
+        문자열을 배열로 반환 시 사용
 
 ![](../../.gitbook/assets/image%20%28183%29.png)
 
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28366%29.png)
+
+![](../../.gitbook/assets/image%20%28374%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "string-to-array": [
+      "s",
+      "y",
+      "n",
+      "c",
+      "t",
+      "r",
+      "e",
+      "e",
+      " ",
+      "g",
+      "o",
+      "o",
+      "d"
+    ]
+  }
+}
+```
+
 ## ● String Substring
 
-        문자열을 부분 반환 시 사
+        문자열의 일부분을 추출할 때 사용
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28342%29.png)
+
+![](../../.gitbook/assets/image%20%28328%29.png)
+
+![](../../.gitbook/assets/image%20%28337%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "substring": "synctree good!!!"
+  }
+}
+```
+
 ## ● String Replace
 
-        문자열을 치환 시 사용
+        문자열에서 특정문자를 다른문자로 변경할 때 사용
 
 ![](../../.gitbook/assets/image%20%2879%29.png)
 
+## ● 예문
+
+## ● 결과
+
 ## ● String Repleace-Regex
 
-        문자열 치환\(정규표현식\) 시 사
+        문자열에 정규식 패턴과 일치 하는 문자를 변환할 때 사용
 
 ![](../../.gitbook/assets/image%20%28107%29.png)
 
 ## ● String Split
 
-        문자열 분할 시 사
+        문자열의 특정 문자를 구분으로 문자열을 분할하여 배열로 출력할 때 사용
 
 ![](../../.gitbook/assets/image%20%28144%29.png)
+
+## ● 예문
+
+![](../../.gitbook/assets/image%20%28352%29.png)
+
+![](../../.gitbook/assets/image%20%28377%29.png)
+
+## ● 결과
+
+```text
+{
+  "result": {
+    "split": [
+      "synctree ",
+      " good !"
+    ]
+  }
+}
+```
 
 ## ● String Split-Regex
 
@@ -132,9 +203,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28322%29.png)
-
 ![](../../.gitbook/assets/image%20%28323%29.png)
+
+![](../../.gitbook/assets/image%20%28324%29.png)
 
 ## ● 결과
 
@@ -154,9 +225,9 @@
 
 ## ● 예문
 
-![](../../.gitbook/assets/image%20%28354%29.png)
+![](../../.gitbook/assets/image%20%28371%29.png)
 
-![](../../.gitbook/assets/image%20%28330%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
 ## ● 결과
 
