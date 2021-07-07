@@ -32,7 +32,7 @@
 
 ### ● 예문
 
-![](../.gitbook/assets/image%20%28415%29.png)
+![](../.gitbook/assets/image%20%28417%29.png)
 
 ![](../.gitbook/assets/image%20%28408%29.png)
 
@@ -58,7 +58,7 @@
 
 ![](../.gitbook/assets/image%20%28403%29.png)
 
-![](../.gitbook/assets/image%20%28426%29.png)
+![](../.gitbook/assets/image%20%28429%29.png)
 
 ### ● 결과
 

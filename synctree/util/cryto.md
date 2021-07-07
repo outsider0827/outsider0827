@@ -10,9 +10,9 @@
 
 ![](../../.gitbook/assets/image%20%28402%29.png)
 
-![](../../.gitbook/assets/image%20%28422%29.png)
+![](../../.gitbook/assets/image%20%28425%29.png)
 
-![](../../.gitbook/assets/image%20%28429%29.png)
+![](../../.gitbook/assets/image%20%28432%29.png)
 
 ### ● 결과
 
@@ -34,9 +34,9 @@
 
 ![](../../.gitbook/assets/image%20%28389%29.png)
 
-![](../../.gitbook/assets/image%20%28417%29.png)
+![](../../.gitbook/assets/image%20%28420%29.png)
 
-![](../../.gitbook/assets/image%20%28440%29.png)
+![](../../.gitbook/assets/image%20%28443%29.png)
 
 ### ● 결과
 

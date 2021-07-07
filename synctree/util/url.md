@@ -8,9 +8,9 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28457%29.png)
+![](../../.gitbook/assets/image%20%28460%29.png)
 
-![](../../.gitbook/assets/image%20%28430%29.png)
+![](../../.gitbook/assets/image%20%28433%29.png)
 
 ### ● 결과
 
@@ -30,9 +30,9 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28413%29.png)
+![](../../.gitbook/assets/image%20%28414%29.png)
 
-![](../../.gitbook/assets/image%20%28412%29.png)
+![](../../.gitbook/assets/image%20%28413%29.png)
 
 ### ● 결과
 

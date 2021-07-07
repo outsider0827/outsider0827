@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image%20%28397%29.png)
 
-![](../../.gitbook/assets/image%20%28447%29.png)
+![](../../.gitbook/assets/image%20%28450%29.png)
 
 ![](../../.gitbook/assets/image%20%28390%29.png)
 
@@ -32,11 +32,11 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28432%29.png)
+![](../../.gitbook/assets/image%20%28435%29.png)
 
-![](../../.gitbook/assets/image%20%28436%29.png)
+![](../../.gitbook/assets/image%20%28439%29.png)
 
-![](../../.gitbook/assets/image%20%28448%29.png)
+![](../../.gitbook/assets/image%20%28451%29.png)
 
 ### ● 결과
 
