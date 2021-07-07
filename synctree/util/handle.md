@@ -8,13 +8,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28383%29.png)
+![](../../.gitbook/assets/image%20%28384%29.png)
 
-![](../../.gitbook/assets/image%20%28410%29.png)
+![](../../.gitbook/assets/image%20%28411%29.png)
 
-![](../../.gitbook/assets/image%20%28441%29.png)
+![](../../.gitbook/assets/image%20%28442%29.png)
 
-![](../../.gitbook/assets/image%20%28434%29.png)
+![](../../.gitbook/assets/image%20%28435%29.png)
 
 ### ● 결과
 
@@ -39,13 +39,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28408%29.png)
+![](../../.gitbook/assets/image%20%28409%29.png)
 
-![](../../.gitbook/assets/image%20%28440%29.png)
+![](../../.gitbook/assets/image%20%28441%29.png)
 
-![](../../.gitbook/assets/image%20%28442%29.png)
+![](../../.gitbook/assets/image%20%28443%29.png)
 
-![](../../.gitbook/assets/image%20%28433%29.png)
+![](../../.gitbook/assets/image%20%28434%29.png)
 
 ### ● 결과
 
@@ -70,13 +70,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28386%29.png)
+![](../../.gitbook/assets/image%20%28387%29.png)
 
-![](../../.gitbook/assets/image%20%28384%29.png)
+![](../../.gitbook/assets/image%20%28385%29.png)
 
-![](../../.gitbook/assets/image%20%28413%29.png)
+![](../../.gitbook/assets/image%20%28414%29.png)
 
-![](../../.gitbook/assets/image%20%28395%29.png)
+![](../../.gitbook/assets/image%20%28396%29.png)
 
 ### ● 결과
 
@@ -101,13 +101,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28451%29.png)
+![](../../.gitbook/assets/image%20%28452%29.png)
 
-![](../../.gitbook/assets/image%20%28453%29.png)
+![](../../.gitbook/assets/image%20%28454%29.png)
 
-![](../../.gitbook/assets/image%20%28391%29.png)
+![](../../.gitbook/assets/image%20%28392%29.png)
 
-![](../../.gitbook/assets/image%20%28426%29.png)
+![](../../.gitbook/assets/image%20%28427%29.png)
 
 ### ● 결과
 
@@ -128,17 +128,17 @@
 
        데이터 타입이 null인지 판단하여 Boolean 값을 리턴할 때 사용
 
-![](../../.gitbook/assets/image%20%28430%29.png)
+![](../../.gitbook/assets/image%20%28431%29.png)
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28417%29.png)
+![](../../.gitbook/assets/image%20%28418%29.png)
 
-![](../../.gitbook/assets/image%20%28449%29.png)
+![](../../.gitbook/assets/image%20%28450%29.png)
 
-![](../../.gitbook/assets/image%20%28438%29.png)
+![](../../.gitbook/assets/image%20%28439%29.png)
 
-![](../../.gitbook/assets/image%20%28406%29.png)
+![](../../.gitbook/assets/image%20%28407%29.png)
 
 ### ● 결과
 
@@ -163,13 +163,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28419%29.png)
+![](../../.gitbook/assets/image%20%28420%29.png)
 
-![](../../.gitbook/assets/image%20%28398%29.png)
+![](../../.gitbook/assets/image%20%28399%29.png)
 
 ![](../../.gitbook/assets/image%20%28380%29.png)
 
-![](../../.gitbook/assets/image%20%28403%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 
 ### ● 결과
 
@@ -194,13 +194,13 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28397%29.png)
+![](../../.gitbook/assets/image%20%28398%29.png)
 
-![](../../.gitbook/assets/image%20%28415%29.png)
+![](../../.gitbook/assets/image%20%28416%29.png)
 
-![](../../.gitbook/assets/image%20%28437%29.png)
+![](../../.gitbook/assets/image%20%28438%29.png)
 
-![](../../.gitbook/assets/image%20%28399%29.png)
+![](../../.gitbook/assets/image%20%28400%29.png)
 
 ### ● 결과
 

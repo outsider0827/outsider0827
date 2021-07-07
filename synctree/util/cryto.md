@@ -8,11 +8,11 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28401%29.png)
+![](../../.gitbook/assets/image%20%28402%29.png)
 
-![](../../.gitbook/assets/image%20%28421%29.png)
+![](../../.gitbook/assets/image%20%28422%29.png)
 
-![](../../.gitbook/assets/image%20%28428%29.png)
+![](../../.gitbook/assets/image%20%28429%29.png)
 
 ### ● 결과
 
@@ -32,11 +32,11 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28388%29.png)
+![](../../.gitbook/assets/image%20%28389%29.png)
 
-![](../../.gitbook/assets/image%20%28416%29.png)
+![](../../.gitbook/assets/image%20%28417%29.png)
 
-![](../../.gitbook/assets/image%20%28439%29.png)
+![](../../.gitbook/assets/image%20%28440%29.png)
 
 ### ● 결과
 
