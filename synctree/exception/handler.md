@@ -12,7 +12,7 @@
 
 ## ● exception type
 
-        exception-type 설
+        exception-type 설명
 
 ![type : RuntimeException, InvalidArgumentException, TransferException](../../.gitbook/assets/image%20%28290%29.png)
 
