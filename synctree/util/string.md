@@ -156,11 +156,11 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28385%29.png)
-
-![](../../.gitbook/assets/image%20%28389%29.png)
-
 ![](../../.gitbook/assets/image%20%28387%29.png)
+
+![](../../.gitbook/assets/image%20%28397%29.png)
+
+![](../../.gitbook/assets/image%20%28391%29.png)
 
 ### ● 결과
 

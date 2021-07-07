@@ -8,9 +8,9 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28390%29.png)
-
 ![](../../.gitbook/assets/image%20%28398%29.png)
+
+![](../../.gitbook/assets/image%20%28412%29.png)
 
 ### ● 결과
 
@@ -30,9 +30,9 @@
 
 ### ● 예문
 
-![](../../.gitbook/assets/image%20%28394%29.png)
+![](../../.gitbook/assets/image%20%28407%29.png)
 
-![](../../.gitbook/assets/image%20%28397%29.png)
+![](../../.gitbook/assets/image%20%28411%29.png)
 
 ### ● 결과
 
@@ -44,7 +44,7 @@
 }
 ```
 
-## 사용가능 알고리즘
+## ● 사용가능 알고리즘
 
 |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
