@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image%20%28190%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28376%29.png)
 
@@ -18,7 +18,7 @@
 
 ![](../../.gitbook/assets/image%20%28338%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -34,13 +34,13 @@
 
 ![](../../.gitbook/assets/image%20%28205%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28357%29.png)
 
 ![](../../.gitbook/assets/image%20%28369%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -72,13 +72,13 @@
 
 ![](../../.gitbook/assets/image%20%28148%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28347%29.png)
 
 ![](../../.gitbook/assets/image%20%28371%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -94,13 +94,13 @@
 
 ![](../../.gitbook/assets/image%20%28183%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28367%29.png)
 
 ![](../../.gitbook/assets/image%20%28375%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -130,7 +130,7 @@
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28342%29.png)
 
@@ -138,7 +138,7 @@
 
 ![](../../.gitbook/assets/image%20%28337%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -154,9 +154,23 @@
 
 ![](../../.gitbook/assets/image%20%2879%29.png)
 
-## ● 예문
+### ● 예문
 
-## ● 결과
+![](../../.gitbook/assets/image%20%28380%29.png)
+
+![](../../.gitbook/assets/image%20%28382%29.png)
+
+![](../../.gitbook/assets/image%20%28381%29.png)
+
+### ● 결과
+
+```text
+{
+  "result": {
+    "replace": "synctree good !!!"
+  }
+}
+```
 
 ## ● String Repleace-Regex
 
@@ -170,13 +184,13 @@
 
 ![](../../.gitbook/assets/image%20%28144%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28352%29.png)
 
 ![](../../.gitbook/assets/image%20%28378%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -201,13 +215,13 @@
 
 ![](../../.gitbook/assets/image%20%28158%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28323%29.png)
 
 ![](../../.gitbook/assets/image%20%28324%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
@@ -223,13 +237,13 @@
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
-## ● 예문
+### ● 예문
 
 ![](../../.gitbook/assets/image%20%28372%29.png)
 
 ![](../../.gitbook/assets/image%20%28334%29.png)
 
-## ● 결과
+### ● 결과
 
 ```text
 {
