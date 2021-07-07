@@ -2,11 +2,49 @@
 
 ## ● Hex Encode
 
+       value 값을 hexCode 변환에 사용
+
 ![](../../.gitbook/assets/image%20%28122%29.png)
+
+### ● 예문
+
+![](../../.gitbook/assets/image%20%28445%29.png)
+
+![](../../.gitbook/assets/image%20%28448%29.png)
+
+![](../../.gitbook/assets/image%20%28409%29.png)
+
+### ● 결과
+
+```text
+{
+  "result": {
+    "hexEncode": "73796e6374726565"
+  }
+}
+```
 
 ## ● Hex Decode
 
+       hexCode를 value으로 변환에 사용
+
 ![](../../.gitbook/assets/image%20%28165%29.png)
 
+### ● 예문
 
+![](../../.gitbook/assets/image%20%28392%29.png)
+
+![](../../.gitbook/assets/image%20%28418%29.png)
+
+![](../../.gitbook/assets/image%20%28423%29.png)
+
+### ● 결과
+
+```text
+{
+  "result": {
+    "hexDecode": "synctree"
+  }
+}
+```
 
