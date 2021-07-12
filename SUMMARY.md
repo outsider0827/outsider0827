@@ -77,7 +77,6 @@
 * [Analytics](synctree/analytics.md)
 * [Exception](synctree/exception/README.md)
   * [Handler](synctree/exception/handler.md)
-* [Marketplace](synctree/marketplace.md)
 
 ## Block Coding Guide
 
