@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/image%20%28231%29.png)
 
-        스토리지를 사용하기 위한 변수 선언
+       설정버튼을 클릭하여 item을 추가 또는 삭제 가능
 
 ![](../../.gitbook/assets/image%20%28241%29.png)
 
